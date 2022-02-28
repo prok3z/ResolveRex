@@ -29,4 +29,4 @@ os.system(['clear', 'cls'][os.name == 'nt'])
 
 host = input('URL: ')
 
-print(host,red + "-->", socket.gethostbyname(host))
+print(red + host, "-->", socket.gethostbyname(host))
