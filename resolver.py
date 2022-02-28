@@ -8,7 +8,7 @@ from time import sleep
 #cores
 red = "\033[91;1m"
 
-print(red + """....._      
+print(red + """
  `.   ``-.                               .-----.._
    `,     `-.   DNS RESOLVER            .:      /`
      :       `".. Simple Tool Scan ..-``       :
