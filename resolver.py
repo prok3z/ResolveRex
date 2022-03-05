@@ -30,3 +30,4 @@ os.system(['clear', 'cls'][os.name == 'nt'])
 host = input('URL: ')
 
 print(red + host, "-->", socket.gethostbyname(host))
+print("Scan Finalizado Com Sucesso!")
