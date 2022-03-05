@@ -1,6 +1,7 @@
 <h1>DNS RESOLVER SCRIPT SIMPLE TOOL SCAN</h1>
  <h4>modo de uso: python3 resolver.py</h4><br><br>
- <img src=https://user-images.githubusercontent.com/43358190/156861170-9cf1ed1b-bcc5-4dd5-bb5d-09fc5e324615.png>
+ <img src="https://user-images.githubusercontent.com/43358190/156861206-ab2088be-7d50-4202-aee5-b6556dcab6d3.png">
+
 
  <br>
  
